@@ -1,0 +1,10 @@
+1. reassigns
+2. neither
+3. reassigns
+4. neither
+5. reassigns
+6. mutates
+7. mutates
+8. mutates
+9. neither
+10. reassigns
