@@ -1,0 +1,2 @@
+differences: lists are mutable, tuples are not; 
+similarities: both are ordered; both are heterogeneous

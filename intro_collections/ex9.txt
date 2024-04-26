@@ -1,0 +1,5 @@
+1. Yes, since the values assigned to them are the same
+2. No, they are distinct objects
+3. Yes, since they are assigned the same values
+4. Yes, since the list constructor creates a shallow copy of the nested list 
+that is not a new object

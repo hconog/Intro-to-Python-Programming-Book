@@ -1,0 +1,8 @@
+function: multiply (lines 1, 9)
+parameters: left, right (lines 1, 2) 
+function: get_num (lines 4, 7, 8)
+parameter: prompt (lines 4, 5)
+function: float (line 5)
+function: input (line 5)
+function: print (line 10)
+

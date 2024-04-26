@@ -1,0 +1,6 @@
+say: function
+print: function, built-in
+input: function, built-in
+max: function, built-in
+upper: method
+lower: method
