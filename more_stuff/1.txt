@@ -1,0 +1,3 @@
+The function sorts the keys of the dictionary passed as an argument
+then extracts the second element in that list as a capitalized string.
+Output: 'CHRIS'

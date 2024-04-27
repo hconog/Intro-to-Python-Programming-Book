@@ -1,0 +1,4 @@
+Line 3 looks for the highest indexed occurrence of 'f' in the substring
+spliced out of the original string between indeces 21 and 35, whereas 
+Line 4 searches the original string, not a spliced substring, between
+indeces 21 and 35. 

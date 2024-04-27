@@ -1,0 +1,2 @@
+The list, the dictionary, and the set cannot be used as keys
+because they are mutable objects

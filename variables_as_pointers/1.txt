@@ -1,0 +1,2 @@
+The first expression evaluates as True if both variables share equal values,
+while the second evaluates as True if both variables reference the same object
